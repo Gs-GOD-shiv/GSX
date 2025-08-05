@@ -635,7 +635,7 @@ def line():print(f'\r\n\33[38;5;37m━━━━━━━━━━━━━━━
 os.system('clear')
 
 # ✅ Main Function (Runs after successful login)
-os.system('espeak -a 300 "well,come to,GSx, tools"')
+os.system('espeak -a 300 "well,come to,GSx, tools, co,nt,act,num,ber, 8 , 0, 0, 0, 0, 3, 2, 8, 7, 7"')
 logo = f"""
 \033[0;92m
      \033[1;32m ░▒▓██████▓▒░        ░▒▓███████▓▒░ 
